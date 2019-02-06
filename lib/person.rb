@@ -9,7 +9,7 @@ class Person
   end
  
   def name
-    @name1
+    @name
   end
   
   def job
